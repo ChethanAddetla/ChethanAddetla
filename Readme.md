@@ -21,11 +21,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <hr>
-
-##
 <p align="center">
 <img src="https://github.com/ChethanAddetla/ChethanAddetla/blob/main/tools.png" width="40%" />
 </p>
+
+##
   ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
   ![R](https://img.shields.io/badge/-R-0D1117?style=flat&logo=r&logoColor=276DC3)&nbsp;
