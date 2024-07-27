@@ -55,8 +55,12 @@
   ![Render](https://img.shields.io/badge/-Render-0D1117?style=flat&logo=render&logoColor)&nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau&logoColor)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva&logoColor)&nbsp;
-  <hr>
-  <h1>GitHub Profile Stats</>
+  <div align="center">
+  <a href="https://github.com/ChethanAddetla">
+  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<!--   <h1>GitHub Profile Stats</>
   <br/>
   <a href="https://github.com/ChethanAddetla/github-readme-stats"><img alt="Chethan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChethanAddetla&show_icons=true&count_private=true&hide=" /></a>
-</details>
+</details> -->
