@@ -21,11 +21,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <hr>
+
+##
 <p align="center">
 <img src="https://github.com/ChethanAddetla/ChethanAddetla/blob/main/tools.png" width="40%" />
 </p>
-
- ## 
   ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
   ![R](https://img.shields.io/badge/-R-0D1117?style=flat&logo=r&logoColor=276DC3)&nbsp;
@@ -36,6 +36,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&logoColor)&nbsp;
   ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&logoColor)&nbsp;
   ![npm](https://img.shields.io/badge/-npm-0D1117?style=flat&logo=npm&logoColor=CB3837)&nbsp;
   ![Android](https://img.shields.io/badge/-Android-0D1117?style=flat&logo=android&logoColor)&nbsp;
@@ -46,6 +47,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+  ![Netlify](https://img.shields.io/badge/-Netlify-0D1117?style=flat&logo=Netlify&logoColor)&nbsp;
+  ![Render](https://img.shields.io/badge/-Render-0D1117?style=flat&logo=render&logoColor)&nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau&logoColor)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva&logoColor)&nbsp;
 
