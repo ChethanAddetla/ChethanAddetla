@@ -24,6 +24,9 @@
 <p align="center">
 <img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
 </p>
+<p align="center">
+<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
+</p>
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
@@ -43,4 +46,5 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+
   
