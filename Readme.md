@@ -26,19 +26,27 @@
 </p>
 
  ## 
+  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![R](https://img.shields.io/badge/-R-0D1117?style=flat&logo=r&logoColor=276DC3)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=)&nbsp;
+  ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&logoColor)&nbsp;
+  ![npm](https://img.shields.io/badge/-npm-0D1117?style=flat&logo=npm&logoColor=CB3837)&nbsp;
+  ![Android](https://img.shields.io/badge/-Android-0D1117?style=flat&logo=android&logoColor)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Jetpack Compose](https://img.shields.io/badge/-Jetpack--Compose-0D1117?style=flat&logo=jetpackcompose&logoColor=4285F4)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
+  ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau&logoColor)&nbsp;
+  ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva&logoColor)&nbsp;
 
   
