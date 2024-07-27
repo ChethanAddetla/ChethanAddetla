@@ -57,3 +57,8 @@
   ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva&logoColor)&nbsp;
 
   
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+</details>
