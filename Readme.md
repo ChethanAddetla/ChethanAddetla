@@ -55,10 +55,8 @@
   ![Render](https://img.shields.io/badge/-Render-0D1117?style=flat&logo=render&logoColor)&nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau&logoColor)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva&logoColor)&nbsp;
-
-  
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <hr>
+  <h1>GitHub Profile Stats</>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/ChethanAddetla/github-readme-stats"><img alt="Chethan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChethanAddetla&show_icons=true&count_private=true&hide=" /></a>
 </details>
