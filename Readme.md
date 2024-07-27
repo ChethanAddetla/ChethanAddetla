@@ -22,10 +22,10 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
+<img src="https://github.com/ChethanAddetla/ChethanAddetla/blob/main/tools.png" width="40%" />
 </p>
  
- ## 🛠️ &nbsp;My Tech Stacks
+ ## 🛠️ &nbsp
  
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
