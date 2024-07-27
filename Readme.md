@@ -39,6 +39,10 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&logoColor)&nbsp;
   ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&logoColor)&nbsp;
   ![npm](https://img.shields.io/badge/-npm-0D1117?style=flat&logo=npm&logoColor=CB3837)&nbsp;
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-0D1117?style=flat&logo=socketdotio&logoColor)&nbsp;
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat&logo=tailwindcss&logoColor)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor)&nbsp;
+  ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite&logoColor)&nbsp;
   ![Android](https://img.shields.io/badge/-Android-0D1117?style=flat&logo=android&logoColor)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
   ![Jetpack Compose](https://img.shields.io/badge/-Jetpack--Compose-0D1117?style=flat&logo=jetpackcompose&logoColor=4285F4)&nbsp;
